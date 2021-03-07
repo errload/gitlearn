@@ -1,0 +1,10 @@
+.vscode
+.idea
+*.suo
+*.nlvs*
+*.njsproj
+*.sln
+*.sw?
+
+/node_modules
+.env
